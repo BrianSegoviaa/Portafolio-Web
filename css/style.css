@@ -1,0 +1,38 @@
+/*estilo css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    font-size: 2em;
+    justify-content: space-around;
+    background-color: blueviolet;
+    padding: auto;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+
+nav ul li a:hover{
+    background-color: white;
+    color: blueviolet;
+}
+
