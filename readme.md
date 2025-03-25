@@ -16,6 +16,5 @@
 ´´
  ningun cambio hasta ahora
  primer cambio en el sitio web
- se agrego la navegacion del sitio web y empezamos
- a dar estilos
+ se agrego la libreria bootstrap
 ´´
